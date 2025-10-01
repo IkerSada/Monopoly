@@ -1,5 +1,10 @@
 package edu.ncsu.monopoly;
-//"He hecho otro un cambio"
+//"He hecho otro un cambio a ver que pasa jajaj"
+
+
+
+
+
 public abstract class Card {
 
     public static final int TYPE_CHANCE = 1;
