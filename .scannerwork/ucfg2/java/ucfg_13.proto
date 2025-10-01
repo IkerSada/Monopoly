@@ -1,0 +1,27 @@
+
+9edu.ncsu.monopoly.gui.GUIRespondDialog#%field_initializer
+__unknown_file ("1*¡
+1 (–“
+]
+SC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/GUIRespondDialog.java ((
+%0javax.swing.JTextArea"javax.swing.JTextArea´
+±
+]
+SC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/GUIRespondDialog.java (*
+%1"javax.swing.JTextArea#<init>()V*)
+ (
+
+%0javax.swing.JTextAreaÍ
+Ê
+]
+SC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/GUIRespondDialog.java (+8(
+&edu.ncsu.monopoly.gui.GUIRespondDialog"
+
+txtMessage"__id*)
+ (
+
+%0javax.swing.JTextArea"r
+[
+SC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/GUIRespondDialog.java :(
+implicit returnB*(
+&edu.ncsu.monopoly.gui.GUIRespondDialog

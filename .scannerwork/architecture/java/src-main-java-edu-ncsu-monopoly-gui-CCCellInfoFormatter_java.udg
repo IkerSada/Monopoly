@@ -1,0 +1,117 @@
+
+1.0"ikersada2_laboratoriomantenimientoJavaFrontend"1759295303913*java2.Bý
+A
+<src/main/java/edu/ncsu/monopoly/gui/CCCellInfoFormatter.java2
+	
+type3
+	
+MAIN4
+
+package6
+
+edu.ncsu.monopoly.gui7
+.
+)edu.ncsu.monopoly.gui.CCCellInfoFormatter9
+
+class10
+
+access11
+
+public12
+
+simple-name13
+
+CCCellInfoFormatter14
+-
+'edu.ncsu.monopoly.gui.CellInfoFormatter16
+
+unknown17
+
+
+implements18
+
+
+uses19
+b
+\edu.ncsu.monopoly.gui.CCCellInfoFormatter#format(Ledu/ncsu/monopoly/Cell;)Ljava/lang/String;21
+
+method22
+
+format23
+
+edu.ncsu.monopoly.Cell25
+
+	has param26
+
+is type27
+
+
+references28
+8
+2edu.ncsu.monopoly.Cell#getName()Ljava/lang/String;30
+
+calls31J
+
+1
+12
+
+
+3
+4Z
+
+5	
+576j¼
+
+15
+151617
+
+24
+242517
+
+29
+293017
+A
+20;
+202122 *
+1 (28:5B
+
+
+11
+12
+
+
+13
+23
+;
+86
+8910 *
+1 (!:5B
+
+
+11
+12
+
+
+13
+14r»
+
+81518*
+1- (>
+
+81519*
+1- (>
+
+202426*
+1 (
+
+202427*
+1 (#
+
+202419*
+1 (
+
+202428*
+12 (6
+
+202931*
+17 (>

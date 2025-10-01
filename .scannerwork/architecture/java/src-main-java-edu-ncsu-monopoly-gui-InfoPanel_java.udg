@@ -1,0 +1,170 @@
+
+1.0"ikersada2_laboratoriomantenimientoJavaFrontend"1759295308014*java2.B’
+7
+2src/main/java/edu/ncsu/monopoly/gui/InfoPanel.java2
+	
+type3
+	
+MAIN4
+
+package6
+
+edu.ncsu.monopoly.gui7
+$
+edu.ncsu.monopoly.gui.InfoPanel9
+
+class10
+
+access11
+
+public12
+
+simple-name13
+
+	InfoPanel14
+4
+.edu.ncsu.monopoly.gui.InfoPanel#displayInfo()V16
+
+method17
+
+displayInfo18
+"
+edu.ncsu.monopoly.GameMaster20
+
+unknown21
+
+is type22
+
+
+uses23
+
+returns24
+
+
+references25
+K
+Eedu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;27
+
+calls28
+8
+2edu.ncsu.monopoly.GameMaster#getNumberOfPlayers()I30
+'
+!edu.ncsu.monopoly.gui.PlayerPanel32
+
+edu.ncsu.monopoly.Player34
+I
+Cedu.ncsu.monopoly.GameMaster#getPlayer(I)Ledu/ncsu/monopoly/Player;36
+6
+0edu.ncsu.monopoly.gui.PlayerPanel#displayInfo()V38J
+
+1
+12
+
+
+3
+4Z
+
+5	
+576jŒ
+
+29
+293021
+
+37
+373821
+;
+86
+8910 *
+1	 	(:5B
+
+
+11
+12
+
+
+13
+14
+
+31
+313221
+A
+15;
+151617 *
+1
+ 
+(28:5B
+
+
+11
+12
+
+
+13
+18
+
+33
+333421
+
+35
+353621
+
+19
+192021
+
+26
+262721ræ
+
+151922*
+1 (
+
+151923*
+1 (
+
+151924*
+1 (!
+
+151925*
+1 (!
+
+152628*
+1" (*
+
+151923*
+1 (!
+
+151925*
+1 (%
+
+152928*
+1& (8
+
+151925*
+1 (
+
+152928*
+1 (/
+
+153122*
+1 (
+
+153123*
+1 (
+
+153128*
+1 ('
+
+153324*
+1( (.
+
+151925*
+1( (.
+
+153528*
+1/ (8
+
+153125*
+1 (	
+
+153728*
+1
+ (

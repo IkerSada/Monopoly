@@ -1,0 +1,70 @@
+
+Medu.ncsu.monopoly.gui.GameBoardUtil#calculateDimension(I)Ljava/awt/Dimension;Z
+PC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/GameBoardUtil.java (+"1*Ž
+1 (]
+[
+ (	
+%0int"__calculate*
+ (	
+-*
+ (
+""*
+
+ (2]
+[
+ (	
+%1int"__calculate*
+ (
+/*
+ (
+""*
+ (2]
+[
+ ($	
+%2int"__calculate*
+! ("
+**
+ ( 
+""*
+# ($2d
+b
+ (%	
+%3int"__calculate*
+ (
+-*
+ (
+""*
+ (%
+	
+%2intb
+`
+ (*	
+%4int"__calculate*
+' ((
+/*
+ (&
+	
+%3int*
+) (*2:8
+ (
+%5java.awt.Dimension"java.awt.Dimension³
+°
+	 (+
+%6"java.awt.Dimension#<init>(II)V*6
+
+__unknown_file (
+
+%5java.awt.Dimension*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"""&
+ (,
+
+%5java.awt.Dimension: 
+
+__unknown_file (
+""B'"%
+#edu.ncsu.monopoly.gui.GameBoardUtilH

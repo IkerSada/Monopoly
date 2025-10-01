@@ -1,0 +1,12 @@
+1this
+ 
+("edu.ncsu.monopoly.gui.GUICell edu.ncsu.monopoly.GameMaster"²0
+.
+* (?"#get-field# MAX_PLAYER:BintD
+B
+ (@"#new-object#2Constructor:Bjavax.swing.JLabel[],
+*
+ (A"#set-field# lblPlayers:
+
+
+ D(*JC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/GUICell.java

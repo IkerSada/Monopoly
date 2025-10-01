@@ -1,0 +1,57 @@
+
+Eedu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;S
+IC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameMaster.java (""3*è
+2 ( NL
+ ("
+%2edu.ncsu.monopoly.GameMaster"edu.ncsu.monopoly.GameMaster|
+z
+ ( 
+%3"&edu.ncsu.monopoly.GameMaster#<init>()V*@
+
+__unknown_file ($
+"
+%2edu.ncsu.monopoly.GameMaster…
+‚
+ ( .
+edu.ncsu.monopoly.GameMaster"
+
+gameMaster"__id*@
+
+__unknown_file ($
+"
+%2edu.ncsu.monopoly.GameMaster*
+1* 
+3 (…
+‚
+ ("
+%0edu.ncsu.monopoly.GameMaster"__id*L
+
+__unknown_file (0*.
+edu.ncsu.monopoly.GameMaster"
+
+gameMaster€
+~
+ (
+%1boolean"	__compare*
+ (
+==*0
+ ($
+"
+%0edu.ncsu.monopoly.GameMaster*
+ (
+""*
+2
+1*Ç
+1	 (…
+‚
+	 ("
+%4edu.ncsu.monopoly.GameMaster"__id*L
+
+__unknown_file (0*.
+edu.ncsu.monopoly.GameMaster"
+
+gameMaster"0
+ ($
+"
+%4edu.ncsu.monopoly.GameMasterB "
+edu.ncsu.monopoly.GameMasterH

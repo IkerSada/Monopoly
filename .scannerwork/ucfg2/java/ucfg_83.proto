@@ -1,0 +1,22 @@
+
+^edu.ncsu.monopoly.gui.JailCellInfoFormatter#format(Ledu/ncsu/monopoly/Cell;)Ljava/lang/String;b
+XC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/JailCellInfoFormatter.java	 	("1*™
+1
+	 
+(d
+b
+
+	 
+(
+%0java.lang.String"__id*8
+
+__unknown_file (
+<html><b>Jail</b></html>"$
+
+ 
+(
+
+%0java.lang.String:*
+	 	("
+celledu.ncsu.monopoly.CellB/-
++edu.ncsu.monopoly.gui.JailCellInfoFormatterH

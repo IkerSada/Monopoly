@@ -1,0 +1,80 @@
+
+.edu.ncsu.monopoly.GameBoard#%field_initializer
+__unknown_file ("1*¤
+1 (‡„
+R
+HC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.java% (4
+%0java.util.ArrayList"java.util.ArrayList¥
+¢
+R
+HC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.java! (6
+%1"java.util.ArrayList#<init>()V*'
+ (
+
+%0java.util.ArrayList°
+­
+R
+HC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.java (7(
+edu.ncsu.monopoly.GameBoard"
+cells"__id*'
+ (
+
+%0java.util.ArrayList‡„
+R
+HC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.java	. 	(=
+%2java.util.ArrayList"java.util.ArrayList¥
+¢
+R
+HC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.java	* 	(?
+%3"java.util.ArrayList#<init>()V*'
+ (
+
+%2java.util.ArrayList¶
+³
+R
+HC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.java	 	(@.
+edu.ncsu.monopoly.GameBoard"
+chanceCards"__id*'
+ (
+
+%2java.util.ArrayList‡„
+R
+HC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.java% (.
+%4java.util.Hashtable"java.util.Hashtable¥
+¢
+R
+HC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.java! (0
+%5"java.util.Hashtable#<init>()V*'
+ (
+
+%4java.util.Hashtable¶
+³
+R
+HC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.java (1.
+edu.ncsu.monopoly.GameBoard"
+colorGroups"__id*'
+ (
+
+%4java.util.Hashtable‡„
+R
+HC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.java3 (B
+%6java.util.ArrayList"java.util.ArrayList¥
+¢
+R
+HC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.java/ (D
+%7"java.util.ArrayList#<init>()V*'
+ (
+
+%6java.util.ArrayList¾
+»
+R
+HC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.java (E6
+edu.ncsu.monopoly.GameBoard"
+communityChestCards"__id*'
+ (
+
+%6java.util.ArrayList"g
+P
+HC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.java l(
+implicit returnB
+edu.ncsu.monopoly.GameBoard

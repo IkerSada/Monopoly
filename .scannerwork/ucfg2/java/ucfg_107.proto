@@ -1,0 +1,60 @@
+
+Jedu.ncsu.monopoly.GameBoard#getPropertyNumberForColor(Ljava/lang/String;)IR
+HC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.javaM M(%"3*†
+2P
+ P(}{
+P
+ P(	
+%3int"java.lang.Integer#intValue()I*9
+
+__unknown_file (
+
+numberjava.lang.Integer2
+intValue()"
+P P(
+""*ó
+3N N('{
+y
+N N('
+%0java.util.Hashtable"__id*L
+
+__unknown_file (0*.
+edu.ncsu.monopoly.GameBoard"
+colorGroups†
+ù
+N N(1
+%1java.lang.Object"__mapGet*7
+
+__unknown_file (
+
+%0java.util.Hashtable*6
+
+__unknown_file (
+
+namejava.lang.Stringe
+c
+N N(2
+numberjava.lang.Integer"__id*4
+
+__unknown_file (
+
+%1java.lang.Objecty
+w
+O O(
+%2boolean"	__compare*
+O O(
+!=*)
+O O(
+
+numberjava.lang.Integer*
+O O(
+""*
+2
+1*!
+1R	 R(
+"
+R R(
+"":$
+M& M(1
+namejava.lang.StringB
+edu.ncsu.monopoly.GameBoardHX

@@ -1,0 +1,7 @@
+organization=ikersada2
+projectKey=ikersada2_laboratoriomantenimiento
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.67939
+dashboardUrl=https://sonarcloud.io/dashboard?id=ikersada2_laboratoriomantenimiento
+ceTaskId=AZmemjeJMyTaOnSEX3Oj
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZmemjeJMyTaOnSEX3Oj

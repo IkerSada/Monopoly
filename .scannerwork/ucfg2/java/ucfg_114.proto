@@ -1,0 +1,140 @@
+
+;edu.ncsu.monopoly.TradeDeal#makeMessage()Ljava/lang/String;R
+HC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/TradeDeal.java ("1*Á
+1 (#¶
+³
+ (."
+%0edu.ncsu.monopoly.GameMaster"Eedu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;*<
+
+__unknown_file ( "
+edu.ncsu.monopoly.GameMasterÎË
+ (A
+%1edu.ncsu.monopoly.Player"Iedu.ncsu.monopoly.GameMaster#getCurrentPlayer()Ledu/ncsu/monopoly/Player;*@
+
+__unknown_file ($
+"
+%0edu.ncsu.monopoly.GameMaster2getCurrentPlayer()ƒ
+€
+ (
+%2java.lang.String"__concat*,
+ (A 
+
+%1edu.ncsu.monopoly.Player*$
+	 (
+ wishes to purchase y
+w
+	 (
+%3java.lang.String"__id*M
+
+__unknown_file (1*/
+edu.ncsu.monopoly.TradeDeal"
+propertyNamez
+x
+ (
+%4java.lang.String"__concat*$
+ (
+
+%2java.lang.String*$
+	 (
+
+%3java.lang.Stringl
+j
+ ( 
+%5java.lang.String"__concat*$
+ (
+
+%4java.lang.String*
+ ( 
+
+ from ¶
+³
+	 ("
+%6edu.ncsu.monopoly.GameMaster"Eedu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;*<
+
+__unknown_file ( "
+edu.ncsu.monopoly.GameMasteræã
+	 (5
+%7edu.ncsu.monopoly.Player"Cedu.ncsu.monopoly.GameMaster#getPlayer(I)Ledu/ncsu/monopoly/Player;*@
+
+__unknown_file ($
+"
+%6edu.ncsu.monopoly.GameMaster*"
+
+__unknown_file (
+""2getPlayer(I)ƒ
+€
+ (5
+%8java.lang.String"__concat*$
+ ( 
+
+%5java.lang.String*,
+	 (5 
+
+%7edu.ncsu.monopoly.Playerk
+i
+ (
+%9java.lang.String"__concat*$
+ (5
+
+%8java.lang.String*
+	 (	
+ for i
+g
+ (
+%10java.lang.String"__concat*$
+ (
+
+%9java.lang.String*
+ (
+""k
+i
+ (!
+%11java.lang.String"__concat*%
+ (
+
+%10java.lang.String*
+ (!
+.  ·
+´
+	 (#
+%12edu.ncsu.monopoly.GameMaster"Eedu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;*<
+
+__unknown_file ( "
+edu.ncsu.monopoly.GameMasterèå
+	 (5
+%13edu.ncsu.monopoly.Player"Cedu.ncsu.monopoly.GameMaster#getPlayer(I)Ledu/ncsu/monopoly/Player;*A
+
+__unknown_file (%
+#
+%12edu.ncsu.monopoly.GameMaster*"
+
+__unknown_file (
+""2getPlayer(I)†
+ƒ
+ (5
+%14java.lang.String"__concat*%
+ (!
+
+%11java.lang.String*-
+	 (5!
+
+%13edu.ncsu.monopoly.PlayerŽ
+‹
+ (0
+%15java.lang.String"__concat*%
+ (5
+
+%14java.lang.String*5
+	 (0)'
+%, do you wish to trade your property?f
+d
+ (1
+messagejava.lang.String"__id*5
+
+__unknown_file (
+
+%15java.lang.String")
+ (
+
+messagejava.lang.StringB
+edu.ncsu.monopoly.TradeDealH

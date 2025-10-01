@@ -1,0 +1,216 @@
+
+1.0"ikersada2_laboratoriomantenimientoJavaFrontend"1759295299068*java2.BÍ
+9
+4src/main/java/edu/ncsu/monopoly/MockTradeDialog.java2
+	
+type3
+	
+MAIN4
+
+package6
+
+edu.ncsu.monopoly7
+&
+!edu.ncsu.monopoly.MockTradeDialog9
+
+class10
+
+access11
+
+public12
+
+simple-name13
+
+MockTradeDialog14
+#
+edu.ncsu.monopoly.TradeDialog16
+
+unknown17
+
+
+implements18
+
+
+uses19
+S
+Medu.ncsu.monopoly.MockTradeDialog#getTradeDeal()Ledu/ncsu/monopoly/TradeDeal;21
+
+method22
+
+getTradeDeal23
+!
+edu.ncsu.monopoly.TradeDeal25
+
+returns26
+
+is type27
+
+calls28
+
+
+references29
+/
+)edu.ncsu.monopoly.TradeDeal#setAmount(I)V31
+4
+.edu.ncsu.monopoly.TradeDeal#setSellerIndex(I)V33
+F
+@edu.ncsu.monopoly.TradeDeal#setPropertyName(Ljava/lang/String;)V35
+
+edu.ncsu.monopoly.Cell37
+9
+3edu.ncsu.monopoly.Cell#toString()Ljava/lang/String;39
+!
+edu.ncsu.monopoly.GameBoard41
+D
+>edu.ncsu.monopoly.GameBoard#getCell(I)Ledu/ncsu/monopoly/Cell;43
+"
+edu.ncsu.monopoly.GameMaster45
+N
+Hedu.ncsu.monopoly.GameMaster#getGameBoard()Ledu/ncsu/monopoly/GameBoard;47
+K
+Eedu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;49J
+
+1
+12
+
+
+3
+4Z
+
+5	
+576jð
+
+34
+343517
+
+36
+363717
+
+32
+323317
+
+30
+303117
+;
+86
+8910 *
+1 (:5B
+
+
+11
+12
+
+
+13
+14
+A
+20;
+202122 *
+1 (28:5B
+
+
+11
+12
+
+
+13
+23
+
+40
+404117
+
+42
+424317
+
+46
+464717
+
+48
+484917
+
+24
+242517
+
+38
+383917
+
+15
+151617
+
+44
+444517r¡
+
+81518*
+1) (4
+
+81519*
+1) (4
+
+202426*
+1 (
+
+202419*
+1 (
+
+202427*
+1 (
+
+202419*
+1	 (
+
+202428*
+1 ('
+
+202429*
+1	 (
+
+203028*
+1 (
+
+202429*
+1	 (
+
+203228*
+1 (
+
+202429*
+1		 	(
+
+203428*
+1	 	(
+
+203629*
+1	 	((
+
+203828*
+1	N 	(V
+
+203626*
+1	 	((
+
+204029*
+1	 	((
+
+204228*
+1	C 	(J
+
+204026*
+1	 	((
+
+204429*
+1	 	((
+
+204628*
+1	4 	(@
+
+204426*
+1	 	((
+
+204429*
+1	 	((
+
+204828*
+1	) 	(1
+
+204419*
+1	 	((

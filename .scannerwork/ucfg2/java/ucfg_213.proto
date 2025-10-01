@@ -1,0 +1,39 @@
+
+0edu.ncsu.monopoly.gui.MainWindow#getDiceRoll()[IW
+MC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/MainWindow.java] ]("1*Ò
+1^5 ^(9fd
+^" ^(4.
+%0(edu.ncsu.monopoly.gui.TestDiceRollDialog"(edu.ncsu.monopoly.gui.TestDiceRollDialogç
+ä
+^ ^(:
+%1"Bedu.ncsu.monopoly.gui.TestDiceRollDialog#<init>(Ljava/awt/Frame;)V*L
+
+__unknown_file (0
+.
+%0(edu.ncsu.monopoly.gui.TestDiceRollDialog*@
+
+__unknown_file ($"
+ edu.ncsu.monopoly.gui.MainWindow•
+’
+^ ^(;2
+dialog(edu.ncsu.monopoly.gui.TestDiceRollDialog"__id*L
+
+__unknown_file (0
+.
+%0(edu.ncsu.monopoly.gui.TestDiceRollDialogŒ‰
+_ _(
+
+%2void"java.awt.Dialog#show()V*P
+
+__unknown_file (4
+2
+dialog(edu.ncsu.monopoly.gui.TestDiceRollDialog2show()µ²
+`	 `(
+%3int[]"8edu.ncsu.monopoly.gui.TestDiceRollDialog#getDiceRoll()[I*P
+
+__unknown_file (4
+2
+dialog(edu.ncsu.monopoly.gui.TestDiceRollDialog2getDiceRoll()"
+` `(
+""B$"
+ edu.ncsu.monopoly.gui.MainWindowH

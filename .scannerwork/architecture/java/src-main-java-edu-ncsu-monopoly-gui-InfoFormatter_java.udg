@@ -1,0 +1,286 @@
+
+1.0"ikersada2_laboratoriomantenimientoJavaFrontend"1759295306363*java2.Bš
+;
+6src/main/java/edu/ncsu/monopoly/gui/InfoFormatter.java2
+	
+type3
+	
+MAIN4
+
+package6
+
+edu.ncsu.monopoly.gui7
+(
+#edu.ncsu.monopoly.gui.InfoFormatter9
+
+class10
+
+access11
+
+public12
+
+simple-name13
+
+InfoFormatter14
+<
+6edu.ncsu.monopoly.gui.InfoFormatter.cellInfoFormatters16
+
+field17
+
+	protected18
+
+cellInfoFormatters19
+:
+4edu.ncsu.monopoly.gui.InfoFormatter#addFormatters()V21
+
+unknown22
+
+calls23
+
+method24
+
+private25
+
+addFormatters26
+$
+edu.ncsu.monopoly.PropertyCell28
+
+
+uses29
+5
+/edu.ncsu.monopoly.gui.PropertyCellInfoFormatter31
+
+edu.ncsu.monopoly.GoCell33
+/
+)edu.ncsu.monopoly.gui.GoCellInfoFormatter35
+ 
+edu.ncsu.monopoly.JailCell37
+1
++edu.ncsu.monopoly.gui.JailCellInfoFormatter39
+$
+edu.ncsu.monopoly.GoToJailCell41
+5
+/edu.ncsu.monopoly.gui.GotoJailCellInfoFormatter43
+'
+!edu.ncsu.monopoly.FreeParkingCell45
+8
+2edu.ncsu.monopoly.gui.FreeParkingCellInfoFormatter47
+$
+edu.ncsu.monopoly.RailRoadCell49
+/
+)edu.ncsu.monopoly.gui.RRCellInfoFormatter51
+#
+edu.ncsu.monopoly.UtilityCell53
+1
++edu.ncsu.monopoly.gui.UtilCellInfoFormatter55
+ 
+edu.ncsu.monopoly.CardCell57
+/
+)edu.ncsu.monopoly.gui.CCCellInfoFormatter59
+^
+Xedu.ncsu.monopoly.gui.InfoFormatter#cellInfo(Ledu/ncsu/monopoly/Cell;)Ljava/lang/String;61
+
+cellInfo62
+
+edu.ncsu.monopoly.Cell64
+
+	has param65
+
+is type66
+-
+'edu.ncsu.monopoly.gui.CellInfoFormatter68
+
+
+references69
+`
+Zedu.ncsu.monopoly.gui.CellInfoFormatter#format(Ledu/ncsu/monopoly/Cell;)Ljava/lang/String;71J
+
+1
+12
+
+
+3
+4Z
+
+5	
+576j‚
+
+56
+565722
+
+67
+676822
+
+63
+636422
+;
+86
+8910 *
+1 (:5B
+
+
+11
+12
+
+
+13
+14
+
+42
+424322
+
+50
+505122
+
+70
+707122
+
+34
+343522
+
+32
+323322
+
+54
+545522
+A
+20;
+202124 *
+1 (28:5B
+
+
+11
+25
+
+
+13
+26
+A
+60;
+606124 *
+1$ $(28:5B
+
+
+11
+12
+
+
+13
+62
+
+44
+444522
+
+40
+404122
+
+36
+363722
+
+27
+272822
+
+30
+303122
+
+46
+464722
+
+48
+484922
+A
+15;
+151617 *
+1 (28:5B
+
+
+11
+18
+
+
+13
+19
+
+58
+585922
+
+38
+383922
+
+52
+525322r¢
+
+82023*
+1 (
+
+202729*
+1 (
+
+203023*
+1) (B
+
+203229*
+1 (
+
+203423*
+1# (6
+
+203629*
+1 (
+
+203823*
+1 (4
+
+204029*
+1 (
+
+204223*
+1# (<
+
+204429*
+1 (
+
+204623*
+1& (B
+
+204829*
+1 (
+
+205023*
+1) (<
+
+205229*
+1 (
+
+205423*
+1( (=
+
+205629*
+1! !(
+
+205823*
+1!% !(8
+
+606365*
+1$# $('
+
+606366*
+1$( $(,
+
+606329*
+1$# $('
+
+606766*
+1% %($
+
+606729*
+1%	 %(
+
+606729*
+1& &(#
+
+606769*
+1' '(
+
+607023*
+1' '( 

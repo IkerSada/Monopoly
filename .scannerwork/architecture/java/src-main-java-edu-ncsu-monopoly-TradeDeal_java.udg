@@ -1,0 +1,372 @@
+
+1.0"ikersada2_laboratoriomantenimientoJavaFrontend"1759295298425*java2.Bë
+
+3
+.src/main/java/edu/ncsu/monopoly/TradeDeal.java2
+	
+type3
+	
+MAIN4
+
+package6
+
+edu.ncsu.monopoly7
+ 
+edu.ncsu.monopoly.TradeDeal9
+
+class10
+
+access11
+
+public12
+
+simple-name13
+
+	TradeDeal14
+(
+"edu.ncsu.monopoly.TradeDeal.amount16
+
+field17
+
+private18
+
+amount19
+-
+'edu.ncsu.monopoly.TradeDeal.playerIndex21
+
+playerIndex22
+.
+(edu.ncsu.monopoly.TradeDeal.propertyName24
+
+propertyName25
+.
+(edu.ncsu.monopoly.TradeDeal#getAmount()I27
+
+method28
+
+	getAmount29
+
+
+references30
+3
+-edu.ncsu.monopoly.TradeDeal#getPlayerIndex()I32
+
+getPlayerIndex33
+E
+?edu.ncsu.monopoly.TradeDeal#getPropertyName()Ljava/lang/String;35
+
+getPropertyName36
+A
+;edu.ncsu.monopoly.TradeDeal#makeMessage()Ljava/lang/String;38
+
+makeMessage39
+
+edu.ncsu.monopoly.Player41
+
+unknown42
+
+returns43
+"
+edu.ncsu.monopoly.GameMaster45
+O
+Iedu.ncsu.monopoly.GameMaster#getCurrentPlayer()Ledu/ncsu/monopoly/Player;47
+
+calls48
+K
+Eedu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;50
+
+
+uses51
+I
+Cedu.ncsu.monopoly.GameMaster#getPlayer(I)Ledu/ncsu/monopoly/Player;53
+/
+)edu.ncsu.monopoly.TradeDeal#setAmount(I)V55
+
+	setAmount56
+F
+@edu.ncsu.monopoly.TradeDeal#setPropertyName(Ljava/lang/String;)V58
+
+setPropertyName59
+4
+.edu.ncsu.monopoly.TradeDeal#setSellerIndex(I)V61
+
+setSellerIndex62J
+
+1
+12
+
+
+3
+4Z
+
+5	
+576j¿
+A
+57;
+575828 *
+1# #(28:5B
+
+
+11
+12
+
+
+13
+59
+A
+34;
+343528 *
+1 (28:5B
+
+
+11
+12
+
+
+13
+36
+A
+60;
+606128 *
+1' '(28:5B
+
+
+11
+12
+
+
+13
+62
+A
+23;
+232417 *
+1 (28:5B
+
+
+11
+18
+
+
+13
+25
+
+40
+404142
+A
+54;
+545528 *
+1 (28:5B
+
+
+11
+12
+
+
+13
+56
+
+52
+525342
+A
+31;
+313228 *
+1 (28:5B
+
+
+11
+12
+
+
+13
+33
+
+49
+495042
+;
+86
+8910 *
+1 (:5B
+
+
+11
+12
+
+
+13
+14
+
+46
+464742
+A
+37;
+373828 *
+1 (28:5B
+
+
+11
+12
+
+
+13
+39
+A
+26;
+262728 *
+1 (28:5B
+
+
+11
+12
+
+
+13
+29
+A
+15;
+151617 *
+1 (28:5B
+
+
+11
+18
+
+
+13
+19
+
+44
+444542
+A
+20;
+202117 *
+1 (28:5B
+
+
+11
+18
+
+
+13
+22rá
+
+261530*
+1	 	(
+
+312030*
+1 (
+
+342330*
+1 (
+
+374043*
+1 ($
+
+374430*
+1 ($
+
+374648*
+10 (@
+
+374443*
+1 ($
+
+374430*
+1 ($
+
+374948*
+1% (-
+
+374451*
+1 ($
+
+372330*
+1
+ (
+
+374043*
+1
+ (
+
+374430*
+1
+ (
+
+375248*
+1  ()
+
+374443*
+1
+ (
+
+374430*
+1
+ (
+
+374948*
+1 (
+
+374451*
+1
+ (
+
+372030*
+1* (5
+
+371530*
+1 (
+
+374043*
+1
+ (
+
+374430*
+1
+ (
+
+375248*
+1  ()
+
+374443*
+1
+ (
+
+374430*
+1
+ (
+
+374948*
+1 (
+
+374451*
+1
+ (
+
+372030*
+1* (5
+
+54851*
+1 	  (
+
+54830*
+1 	  (
+
+541530*
+1   (
+
+57851*
+1$	 $(
+
+57830*
+1$	 $(
+
+572330*
+1$ $(
+
+60851*
+1(	 ((
+
+60830*
+1(	 ((
+
+602030*
+1( ((

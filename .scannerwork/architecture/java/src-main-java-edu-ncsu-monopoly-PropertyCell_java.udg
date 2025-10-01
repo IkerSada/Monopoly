@@ -1,0 +1,535 @@
+
+1.0"ikersada2_laboratoriomantenimientoJavaFrontend"1759295297768*java2.B 
+6
+1src/main/java/edu/ncsu/monopoly/PropertyCell.java2
+	
+type3
+	
+MAIN4
+
+package6
+
+edu.ncsu.monopoly7
+#
+edu.ncsu.monopoly.PropertyCell9
+
+class10
+
+access11
+
+public12
+
+simple-name13
+
+PropertyCell14
+
+edu.ncsu.monopoly.Cell16
+
+unknown17
+
+extends18
+
+
+uses19
+/
+)edu.ncsu.monopoly.PropertyCell.colorGroup21
+
+field22
+
+private23
+
+
+colorGroup24
+/
+)edu.ncsu.monopoly.PropertyCell.housePrice26
+
+
+housePrice27
+.
+(edu.ncsu.monopoly.PropertyCell.numHouses29
+
+	numHouses30
+)
+#edu.ncsu.monopoly.PropertyCell.rent32
+
+
+rent33
+.
+(edu.ncsu.monopoly.PropertyCell.sellPrice35
+
+	sellPrice36
+F
+@edu.ncsu.monopoly.PropertyCell#getColorGroup()Ljava/lang/String;38
+
+method39
+
+getColorGroup40
+
+
+references41
+5
+/edu.ncsu.monopoly.PropertyCell#getHousePrice()I43
+
+getHousePrice44
+4
+.edu.ncsu.monopoly.PropertyCell#getNumHouses()I46
+
+getNumHouses47
+0
+*edu.ncsu.monopoly.PropertyCell#getPrice()I49
+
+getPrice50
+/
+)edu.ncsu.monopoly.PropertyCell#getRent()I52
+
+getRent53
+
+edu.ncsu.monopoly.Player55
+A
+;edu.ncsu.monopoly.Player#getMonopolies()[Ljava/lang/String;57
+
+calls58
+"
+edu.ncsu.monopoly.Cell.owner60
+2
+,edu.ncsu.monopoly.PropertyCell#playAction()V62
+
+
+playAction63
+
+is type64
++
+%edu.ncsu.monopoly.Cell#isAvailable()Z66
+
+returns67
+"
+edu.ncsu.monopoly.GameMaster69
+O
+Iedu.ncsu.monopoly.GameMaster#getCurrentPlayer()Ledu/ncsu/monopoly/Player;71
+K
+Eedu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;73
+F
+@edu.ncsu.monopoly.Player#payRentTo(Ledu/ncsu/monopoly/Player;I)V75
+G
+Aedu.ncsu.monopoly.PropertyCell#setColorGroup(Ljava/lang/String;)V77
+
+setColorGroup78
+6
+0edu.ncsu.monopoly.PropertyCell#setHousePrice(I)V80
+
+setHousePrice81
+5
+/edu.ncsu.monopoly.PropertyCell#setNumHouses(I)V83
+
+setNumHouses84
+1
++edu.ncsu.monopoly.PropertyCell#setPrice(I)V86
+
+setPrice87
+0
+*edu.ncsu.monopoly.PropertyCell#setRent(I)V89
+
+setRent90J
+
+1
+12
+
+
+3
+4Z
+
+5	
+576j°
+
+A
+45;
+454639 *
+1 (28:5B
+
+
+11
+12
+
+
+13
+47
+A
+34;
+343522 *
+1 (	28:5B
+
+
+11
+23
+
+
+13
+36
+A
+48;
+484939 *
+1 (28:5B
+
+
+11
+12
+
+
+13
+50
+
+54
+545517
+A
+25;
+252622 *
+1 (	28:5B
+
+
+11
+23
+
+
+13
+27
+A
+88;
+888939 *
+1B B(28:5B
+
+
+11
+12
+
+
+13
+90
+A
+28;
+282922 *
+1 (	28:5B
+
+
+11
+23
+
+
+13
+30
+A
+79;
+798039 *
+16 6(28:5B
+
+
+11
+12
+
+
+13
+81
+A
+76;
+767739 *
+12 2(28:5B
+
+
+11
+12
+
+
+13
+78
+
+56
+565717
+
+70
+707117
+A
+61;
+616239 *
+1( ((28:5B
+
+
+11
+12
+
+
+13
+63
+;
+86
+8910 *
+1 (:5B
+
+
+11
+12
+
+
+13
+14
+A
+20;
+202122 *
+1 (	28:5B
+
+
+11
+23
+
+
+13
+24
+
+68
+686917
+A
+51;
+515239 *
+1 (28:5B
+
+
+11
+12
+
+
+13
+53
+
+15
+151617
+A
+85;
+858639 *
+1> >(28:5B
+
+
+11
+12
+
+
+13
+87
+A
+82;
+828339 *
+1: :(28:5B
+
+
+11
+12
+
+
+13
+84
+
+74
+747517
+A
+31;
+313222 *
+1 (	28:5B
+
+
+11
+23
+
+
+13
+33
+
+72
+727317
+A
+37;
+373839 *
+1
+ 
+(28:5B
+
+
+11
+12
+
+
+13
+40
+
+59
+596017
+A
+42;
+424339 *
+1 (28:5B
+
+
+11
+12
+
+
+13
+44
+
+65
+656617r‘
+
+
+81518*
+1# ('
+
+81519*
+1# ('
+
+372041*
+1
+ (
+
+422541*
+1
+ (
+
+452841*
+1
+ (
+
+483441*
+1
+ (
+
+513141*
+1 (
+
+515441*
+1 (
+
+515658*
+1  (-
+
+515941*
+1 (
+
+515419*
+1 (
+
+515941*
+1 (
+
+512041*
+1 (&
+
+513141*
+1 (
+
+512841*
+1" "(
+
+513141*
+1# #(
+
+512841*
+1# #($
+
+615464*
+1)
+ )(
+
+615419*
+1) )(	
+
+611541*
+1* *(
+
+616558*
+1* *(
+
+615467*
+1+ +(
+
+616841*
+1+ +(
+
+617058*
+1+* +(:
+
+616867*
+1+ +(
+
+616841*
+1+ +(
+
+617258*
+1+ +('
+
+616819*
+1+ +(
+
+615419*
+1, ,(
+
+615941*
+1, ,(
+
+615441*
+1- -(
+
+617458*
+1- -(
+
+615419*
+1- -("
+
+615941*
+1- -("
+
+61841*
+1-$ -(+
+
+615158*
+1-$ -(+
+
+76819*
+13 3(
+
+76841*
+13 3(
+
+762041*
+13 3(
+
+79819*
+17 7(
+
+79841*
+17 7(
+
+792541*
+17 7(
+
+82819*
+1; ;(
+
+82841*
+1; ;(
+
+822841*
+1; ;(
+
+85819*
+1? ?(
+
+85841*
+1? ?(
+
+853441*
+1? ?(
+
+88819*
+1C C(
+
+88841*
+1C C(
+
+883141*
+1C C(

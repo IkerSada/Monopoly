@@ -1,0 +1,133 @@
+
+1.0"ikersada2_laboratoriomantenimientoJavaFrontend"1759295301806*java2.B©
+.
+)src/main/java/edu/ncsu/monopoly/Card.java2
+	
+type3
+	
+MAIN4
+
+package6
+
+edu.ncsu.monopoly7
+
+edu.ncsu.monopoly.Card9
+
+class10
+
+access11
+
+public12
+
+simple-name13
+
+
+Card14
+(
+"edu.ncsu.monopoly.Card.TYPE_CHANCE16
+
+field17
+
+TYPE_CHANCE18
+$
+edu.ncsu.monopoly.Card.TYPE_CC20
+
+TYPE_CC21
+9
+3edu.ncsu.monopoly.Card#getLabel()Ljava/lang/String;23
+
+method24
+
+getLabel25
++
+%edu.ncsu.monopoly.Card#applyAction()V27
+
+applyAction28
++
+%edu.ncsu.monopoly.Card#getCardType()I30
+
+getCardType31J
+
+1
+12
+
+
+3
+4Z
+
+5	
+576jå
+A
+29;
+293024 *
+1
+ 
+(28:5B
+
+
+11
+12
+
+
+13
+31
+A
+19;
+192017 *
+1 (28:5B
+
+
+11
+12
+
+
+13
+21
+;
+86
+8910 *
+1 (:5B
+
+
+11
+12
+
+
+13
+14
+A
+22;
+222324 *
+1 (28:5B
+
+
+11
+12
+
+
+13
+25
+A
+15;
+151617 *
+1 (28:5B
+
+
+11
+12
+
+
+13
+18
+A
+26;
+262724 *
+1	 	(28:5B
+
+
+11
+12
+
+
+13
+28

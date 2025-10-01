@@ -1,0 +1,87 @@
+
++edu.ncsu.monopoly.Player#%field_initializer
+__unknown_file ("1*Î
+1 (ÑÅ
+O
+EC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/Player.java
+% 
+(.
+%0java.util.Hashtable"java.util.Hashtable¢
+ü
+O
+EC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/Player.java
+! 
+(0
+%1"java.util.Hashtable#<init>()V*'
+ (
+
+%0java.util.Hashtable∞
+≠
+O
+EC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/Player.java
+ 
+(1+
+edu.ncsu.monopoly.Player"
+colorGroups"__id*'
+ (
+
+%0java.util.HashtableÑÅ
+O
+EC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/Player.java$ (-
+%2java.util.ArrayList"java.util.ArrayList¢
+ü
+O
+EC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/Player.java  (/
+%3"java.util.ArrayList#<init>()V*'
+ (
+
+%2java.util.ArrayListØ
+¨
+O
+EC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/Player.java (0*
+edu.ncsu.monopoly.Player"
+
+properties"__id*'
+ (
+
+%2java.util.ArrayListÑÅ
+O
+EC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/Player.java# (,
+%4java.util.ArrayList"java.util.ArrayList¢
+ü
+O
+EC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/Player.java (.
+%5"java.util.ArrayList#<init>()V*'
+ (
+
+%4java.util.ArrayListÆ
+´
+O
+EC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/Player.java (/)
+edu.ncsu.monopoly.Player"
+	railroads"__id*'
+ (
+
+%4java.util.ArrayListÑÅ
+O
+EC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/Player.java# (,
+%6java.util.ArrayList"java.util.ArrayList¢
+ü
+O
+EC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/Player.java (.
+%7"java.util.ArrayList#<init>()V*'
+ (
+
+%6java.util.ArrayListÆ
+´
+O
+EC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/Player.java (/)
+edu.ncsu.monopoly.Player"
+	utilities"__id*'
+ (
+
+%6java.util.ArrayList"e
+N
+EC:/Users/ehu/git/Monopoly/src/main/java/edu/ncsu/monopoly/Player.java á(
+implicit returnB
+edu.ncsu.monopoly.Player
